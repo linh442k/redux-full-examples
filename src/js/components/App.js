@@ -15,7 +15,7 @@ const App = () => {
         <Form />
       </div>
       <div>
-        <h2>API posts</h2>
+        <h2>Articles from API</h2>
         <Posts />
       </div>
     </div>
